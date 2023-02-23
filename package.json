@@ -1,7 +1,6 @@
 {
   "name": "mywebsite",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d rf_nitc"
@@ -9,8 +8,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage":"https://researchforumnitc.github.io/mywebsite",
+  "homepage": "https://researchforumnitc.github.io/mywebsite",
   "dependencies": {
     "gh-pages": "^5.0.0"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
