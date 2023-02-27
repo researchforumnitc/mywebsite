@@ -1,3 +1,5 @@
+Registration button added
+
 Fixed Team Header Align Issue
 
 Updated Team

@@ -1576,3 +1576,20 @@ section {
   font-size: 13px;
   color: #fff;
 }
+
+/*
+  Reg Link
+*/
+.reg{
+  background-color: orange;
+          border: none;
+          color: white;
+          
+          text-align: center;
+          text-decoration: none;
+          display: inline-block;
+          
+          border-radius: 8px;
+  }
+  .reg:hover{
+    background-color: orangered;
