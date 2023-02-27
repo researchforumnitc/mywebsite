@@ -1,3 +1,5 @@
+Added timer on const page
+
 Registration button added
 
 Fixed Team Header Align Issue
