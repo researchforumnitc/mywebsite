@@ -1,3 +1,5 @@
+Hero bg reverted,
+
 team member info updated
 
 Changed hero, added team member
