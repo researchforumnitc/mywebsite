@@ -1600,18 +1600,32 @@ section {
   margin: 0 auto;
   text-align: center;
   background-color:orange;
+  width: fit-content;
  /* padding-top: 1em;*/
 }
     
 #timer-h1{
   top:0px;
-  background-color:black;
-  color: orange;
+  background-color:white;
+  color: black;
   font-weight: normal;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+  font-size: 3em;
   letter-spacing: .125rem;
   text-transform: uppercase;
   bottom:0px;
   
+}
+
+#timer-h2{
+  top:0px;
+  /*background-color:black;*/
+  color:white;
+  font-weight: normal;
+  letter-spacing: .125rem;
+ /* text-transform: uppercase;
+  bottom:0px;*/
+
 }
 
 .timer-li{
@@ -1626,3 +1640,14 @@ section {
   display: block;
   font-size: 4.5rem;
 }
+
+/*
+*  Con23 Events
+*/
+.con-sp-l{
+  background-color: #FCBB53 ;
+}
+.con-sp-r{
+  background-color: #F2C450;
+}
+
