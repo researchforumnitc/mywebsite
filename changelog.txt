@@ -1,3 +1,5 @@
+team member info updated
+
 Changed hero, added team member
 
 Added timer on const page
