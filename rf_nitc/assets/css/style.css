@@ -1645,9 +1645,13 @@ section {
 *  Con23 Events
 */
 .con-sp-l{
-  background-color: #FCBB53 ;
+  background-color:  #F2C450 ;
+/*  padding:5em;
+  padding-top: 5em;*/
 }
 .con-sp-r{
-  background-color: #F2C450;
+  background-color: #FCBB53;
+  /*padding: 5em;
+  padding-top: 5em;*/
 }
 
