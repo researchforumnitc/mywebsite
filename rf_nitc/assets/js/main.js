@@ -287,7 +287,7 @@
   /**
   	Timer
   */
-    let is_timer = select('.timer')
+   /* let is_timer = select('.timer')
     if(is_timer){
       const second = 1000,
           minute = second * 60,
@@ -330,7 +330,7 @@
           }
           //seconds
         }, 0)
-    }
+    }*/
 
   /**
    * Initiate Pure Counter 

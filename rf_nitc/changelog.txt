@@ -1,3 +1,5 @@
+Removed timer
+
 Event schedule added
 
 Reg date update
